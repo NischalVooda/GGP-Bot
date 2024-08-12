@@ -1,0 +1,6 @@
+
+Join HGS
+https://e8ec3df0341fed8c8b27fca741fb7d.1b.environment.api.powerplatform.com/powervirtualagents/botsbyschema/cra66_joinHgsAiAssistant/directline/token?api-version=2022-03-01-preview
+
+GGP
+https://e8ec3df0341fed8c8b27fca741fb7d.1b.environment.api.powerplatform.com/powervirtualagents/botsbyschema/cra66_ggp/directline/token?api-version=2022-03-01-preview
